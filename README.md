@@ -39,17 +39,17 @@
 
 <p style="margin:em">
 <a href="https://github.com/genciberisha/genciberisha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=genciberisha&hide=java,html,tex&theme=great-gatsby&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=genciberisha&hide=java,html,tex&theme=gruvbox&langs_count=3" />
 </a>
 <a href="https://github.com/genciberisha/genciberisha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=genciberisha&show_icons=true&line_height=27&count_private=true&theme=great-gatsby" alt="Genci's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=genciberisha&show_icons=true&line_height=27&count_private=true&theme=gruvbox" alt="Genci's GitHub Stats" />
 </a>
 
 
 <a href="https://github.com/genciberisha/opencv">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=genciberisha&repo=opencv&theme=great-gatsby" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=genciberisha&repo=opencv&theme=gruvbox" />
   </a>
-<a href="https://github.com/genciberisha/opencv">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=genciberisha&repo=opencv&theme=great-gatsby" />
+<a href="https://github.com/godotengine/godot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=godotengine&repo=godot&theme=gruvbox" />
 </a>
 </p>
