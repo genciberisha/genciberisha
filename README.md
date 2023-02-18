@@ -46,10 +46,10 @@
 </a>
 
 
-<a href="https://github.com/genciberisha/opencv">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=genciberisha&repo=opencv&theme=gruvbox" />
+<a href="https://github.com/opencv/opencv">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=opencv&repo=opencv&show_owner=true&theme=gruvbox" />
   </a>
 <a href="https://github.com/godotengine/godot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=godotengine&repo=godot&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=godotengine&repo=godot&show_owner=true&theme=gruvbox" />
 </a>
 </p>
