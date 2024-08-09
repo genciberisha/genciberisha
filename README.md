@@ -18,7 +18,7 @@
 
 <h3>DESCRIPTION</h3>       Open source enthusiast. Mainly into software but likes to deal
        with hardware.Uses wetware for solving problems about both.
-       Reinvents the wheel occasionallyand creates obscure stuff.
+       Reinvents the wheel occasionally and creates obscure stuff.
 
 <h3>OPTIONS</h3><h3>      --hey</h3>           Sends magic bytes for communication
 
@@ -26,11 +26,11 @@
 
 <h3>PROJECTS</h3>        <a href="https://github.com/opencv/opencv">opencv</a>
 
-<h3>ENVIRONMENT VARIABLES</h3><h3>       LANG</h3>            en\_US.utf-8<h3>       PGP_KEY</h3>            <a href="https://github.com/neg-c.gpg">0xGF3854824B3E4A01</a><h3>       IDE</h3>            VSCode, Neovim, CLion
+<h3>ENVIRONMENT VARIABLES</h3><h3>       LANG</h3>            en\_US.utf-8<h3>       PGP_KEY</h3>            <a href="https://github.com/neg-c.gpg">0x11312C062B378830</a><h3>       IDE</h3>            VSCode, Neovim, CLion
 
 <h3>KNOWN BUGS</h3>        Btw uses <a href="https://archlinux.org/">Arch</a>.
 
-<h3>SEE ALSO</h3>        <a href="https://github.com/neg-c">github</a>(4),<a href="mailto:gencii.berisha3@gmail.com">email</a>(4),<a href="https://www.linkedin.com/in/genciberisha/">linkedin</a>(4)
+<h3>SEE ALSO</h3>        <a href="https://github.com/neg-c">github</a>(4),<a href="mailto:me@genciberisha.dev">email</a>(4),<a href="https://www.linkedin.com/in/genciberisha/">linkedin</a>(4)
 </code>
 </pre>
 
