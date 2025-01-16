@@ -12,9 +12,9 @@
 <!-- I hate Github for not supporting CSS -->
 <pre>
 <code>
-<h3>NAME</h3>       cNeg — Genci Berisha
+<h3>NAME</h3>       neg-c — Genci Berisha
 
-<h3>SYNOPSIS</h3>       cNeg \[OPTIONS\]
+<h3>SYNOPSIS</h3>       neg-c [OPTIONS]
 
 <h3>DESCRIPTION</h3>       Open source enthusiast. Mainly into software but likes to deal
        with hardware.Uses wetware for solving problems about both.
